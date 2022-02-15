@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="rc110_template" type="rc110_template" name="template" respawn="true">
+        <rosparam file="$(find rc110_template)/config/template.yaml" subst_value="true"/>
+    </node>
+</launch>
