@@ -37,5 +37,5 @@ rosrun rc110_template rc110_template
 roslaunch rc110_template main.launch
 ```
 
-## Contribution Process
-If you are new to github, please check the [**official documentation**](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
+## Contribution Guidelines
+Please, check [**CONTRIBUTING.md**](CONTRIBUTING.md).
